@@ -1,3 +1,4 @@
+import * as FridaUtil from "./FridaUtil";
 import { log } from "./logger";
 
 const header = Memory.alloc(16);
